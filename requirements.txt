@@ -1,0 +1,10 @@
+asyncio
+faker
+fastapi
+pylint
+pytest
+python-dotenv
+requests
+responses
+uvicorn
+wheel
